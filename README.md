@@ -1,26 +1,27 @@
 # Portofolio Muhammad Hafizh Ibrahim
 
-Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Minggu 01 sampai 05).
-Website ini tampil rapi di ponsel, tablet, dan laptop.
+Website portofolio pribadi ini saya kembangkan dari nol selama mengikuti program Kelas Industri UBIG (Paket 1, Minggu 01 - 05). Desainnya sudah dibuat responsif agar tata letaknya tetap rapi saat dibuka lewat HP, tablet, maupun laptop.
 
 ## Tampilan
 
-![Tampilan Beranda]<img src="Modul 4/img/image.png" alt="Tampilan Proyek">
+<img src="img/image.png" alt="Tampilan Proyek">
 
 ## Fitur
 
-- Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
-- Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
-- Halaman **Kontak** berisi form untuk menghubungi saya
-- Tampilan responsif dengan Flexbox dan *media query*
+- Halaman **Beranda**: Berisi profil singkat, hobi, target saya untuk menjadi Full Stack Web Developer, serta jadwal belajar mandiri.
+- Halaman **Proyek**: Menampilkan daftar karya dan tugas praktik yang dibungkus dalam tata letak kartu (*card*).
+- Halaman **Kontak**: Formulir simpel untuk pengunjung yang ingin menghubungi atau bekerja sama.
+- Tampilan responsif (menyesuaikan ukuran layar) menggunakan pendekatan *Mobile-First*.
 
 ## Teknologi
 
 - HTML5
-- CSS3 (Flexbox dan media query)
-- Git dan GitHub
+- CSS3 (Flexbox & Media Query)
+- Git & GitHub (Version Control)
+- Vercel (Deployment)
+- VS Code & Live Server
 
 ## Tautan
 
-- Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Muhammad Hafizh Ibrahim, SMKN 1 Jenangan
+- Website: https://portofolio-hafizhibrahim.vercel.app/
+- Dibuat oleh: Muhammad Hafizh Ibrahim, Siswa X RPL B SMKN 1 Jenangan
