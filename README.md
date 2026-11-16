@@ -5,7 +5,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ## Tampilan
 
-!Tampilan Beranda<img src="Modul 4/img/image.png" alt="Tampilan Proyek">
+![Tampilan Beranda]  <img src="Modul 4/img/image.png" alt="Tampilan Proyek">
 
 ## Fitur
 
